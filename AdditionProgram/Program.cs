@@ -10,7 +10,7 @@ namespace AdditionProgram
     {
         public int sum(int n1, int n2)
         {
-            int c;
+            int c,d;
             c = n1 + n2;
             return c;
         }

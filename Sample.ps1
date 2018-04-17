@@ -1,4 +1,4 @@
 Param(
-[string]$greeter,
+[string]$greeter
 )
 Write-Host "Hello world" from $greeter
